@@ -1,0 +1,8 @@
+base [K]+[K]+[K]+[K]+[K]+[K]
+rule Q A[R][L]A[R][L]
+rule K AF[R][L]AF[R][L]Q
+rule L --F+F[T]++F+F
+rule R ++F-F[I]--F-F
+rule T ++L
+rule I --R
+rule A FF
