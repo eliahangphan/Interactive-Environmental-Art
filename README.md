@@ -1,8 +1,8 @@
 # "Melt"
 
-"Melt" is a simple interactive environmental data visualization artwork made using beginner-level Python turtle, tkinter, and object-oriented programming.
+"Melt" is a simple interactive environmental data visualization artwork made using Python turtle, tkinter, and object-oriented programming.
 
-This is Hang Phan's final project for Colby College's Fall 2022 CS151 (Computational Thinking: Visual Media).
+This is Elia Phan's final project for Colby College's Fall 2022 CS151 (Computational Thinking: Visual Media).
 
 ## Final Product Showcase
 https://user-images.githubusercontent.com/119096071/212470808-ab43e6d4-f972-4d8e-babb-3ea034d49dc6.mp4
